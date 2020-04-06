@@ -15,6 +15,6 @@ func sliceIt() []int {
 	return arr1
 }
 
-func main() {
-	fmt.Println(sliceIt())
-}
+// func main() {
+// 	fmt.Println(sliceIt())
+// }
