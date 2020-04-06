@@ -10,6 +10,6 @@ func loops() {
 	}
 }
 
-func main() {
-	loops()
-}
+// func main() {
+// 	loops()
+// }
