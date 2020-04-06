@@ -13,6 +13,6 @@ func createArray() {
 	fmt.Println(arr, arr1)
 }
 
-func main() {
-	createArray()
-}
+// func main() {
+// 	createArray()
+// }
