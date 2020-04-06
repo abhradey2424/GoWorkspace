@@ -14,4 +14,5 @@ func main() {
 	fmt.Println(s1, s2)
 	s1, s2 = swapNew(s1, s2)
 	fmt.Println(s1, s2)
+	fmt.Printf("%T, %v", s1, s1)
 }
